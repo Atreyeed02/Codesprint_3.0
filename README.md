@@ -1,38 +1,41 @@
-# Codesprint 3.0 🚀
+# CodeSprint 3.0 🚀
 
-Welcome to **Codesprint 3.0** — my daily DSA and Competitive Programming journey in C++.
+Welcome to my **CodeSprint 3.0** journey — a 45 Days Coding Challenge organized by USC KIIT.
 
-This repository is a collection of:
-- 📌 Daily coding practice
-- 🧠 Data Structures & Algorithms
-- ⚡ Problem-solving challenges
-- 💻 Competitive Programming solutions
-- 📈 Consistency tracking
+This repository contains my daily solutions, problem-solving progress, and consistency journey throughout the challenge.
 
-The goal of this series is to strengthen problem-solving skills, improve coding efficiency, and prepare for top tech opportunities.
+---
+
+## 📌 About the Challenge
+
+- 🗓️ Duration: 45 Days
+- 💻 Focus:
+  - Data Structures & Algorithms
+  - Problem Solving
+  - Competitive Programming
+  - Coding Consistency
 
 ---
 
 ## 👩‍💻 About Me
 
 Hi, I'm **Atreyee Debnath**  
-A passionate Computer Science student exploring:
-- Data Structures & Algorithms
+A Computer Science student passionate about:
+- DSA & Competitive Programming
 - Backend Development
 - AI/ML Integration
-- Competitive Programming
+- Building Real-World Projects
 
 ---
 
 ## 🔗 Connect With Me
-
 
 - 💼 LinkedIn: [Atreyee Debnath](https://www.linkedin.com/in/atreyee-debnath/)
 - 💻 GitHub: [Atreyeed02](https://github.com/Atreyeed02)
 
 ---
 
-## 📚 Repository Structure
+## 📂 Repository Structure
 
 ```bash
 Codesprint_3.0/
@@ -42,6 +45,7 @@ Codesprint_3.0/
 │   └── contains_duplicate.cpp
 │
 ├── Day-2/
-│   └── ...
+│
+├── Day-3/
 │
 └── README.md
