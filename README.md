@@ -26,8 +26,9 @@ A passionate Computer Science student exploring:
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: :contentReference[oaicite:0]{index=0}
-- 💻 GitHub: :contentReference[oaicite:1]{index=1}
+
+- 💼 LinkedIn: [Atreyee Debnath](https://www.linkedin.com/in/atreyee-debnath/)
+- 💻 GitHub: [Atreyeed02](https://github.com/Atreyeed02)
 
 ---
 
