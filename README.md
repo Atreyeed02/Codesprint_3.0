@@ -37,6 +37,8 @@ A Computer Science student passionate about:
 
 ## 📂 Repository Structure
 
+## 📂 Repository Structure
+
 ```bash
 Codesprint_3.0/
 │
@@ -45,7 +47,10 @@ Codesprint_3.0/
 │   └── contains_duplicate.cpp
 │
 ├── Day-2/
+│   ├── nitin_average_score.cpp
+│   └── soumya_audit_report.cpp
 │
 ├── Day-3/
 │
 └── README.md
+```
