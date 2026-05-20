@@ -37,8 +37,6 @@ A Computer Science student passionate about:
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 ```bash
 Codesprint_3.0/
 │
@@ -51,6 +49,9 @@ Codesprint_3.0/
 │   └── soumya_audit_report.cpp
 │
 ├── Day-3/
+│   ├── alarm_code_validator.java
+│   └── alphabet_cross_pattern.java
 │
 └── README.md
 ```
+
