@@ -56,6 +56,12 @@ Codesprint_3.0/
 │   ├── firewall_pattern.java
 │   └── announcement_analyzer.java
 │
+├── Day-5/
+│   ├── gossip_free_library.java
+│   └── attendance_tracker.java
+│
 └── README.md
 ```
+
+---
 
