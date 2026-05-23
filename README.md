@@ -38,8 +38,8 @@ A Computer Science student passionate about:
 ## 📂 Repository Structure
 
 ```bash
-Codesprint_3.0/
-│
+CodeSprint_3.0/
+
 ├── Day-1/
 │   ├── move_zeroes.cpp
 │   └── contains_duplicate.cpp
@@ -60,8 +60,11 @@ Codesprint_3.0/
 │   ├── gossip_free_library.java
 │   └── attendance_tracker.java
 │
+├── Day-6/
+│   ├── check.java
+│   └── prateeks_diagonal_energy_grid.java
+│
 └── README.md
-```
-
+---
 ---
 
