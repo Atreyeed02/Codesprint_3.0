@@ -64,7 +64,12 @@ CodeSprint_3.0/
 │   ├── check.java
 │   └── prateeks_diagonal_energy_grid.java
 │
+│
+├── Day-7/
+│   │
+│   ├── soumyadip_and_the_mirror_portal.java
+│   └── marutwan_and_the_signal_decoder.java
+│
 └── README.md
----
 ---
 
