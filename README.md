@@ -85,7 +85,7 @@ CodeSprint_3.0/
 │   ├── namita_and_the_stable_rankings.java
 │   └── sitanshu_and_the_college_club_lineup.java
 │
-├── Day-12
+├── Day-12/
 │   ├── longest palindromic substring.java
 │   └── Absolute sum.java
 │   
