@@ -56,7 +56,7 @@ Day 10  ██ ✅  |  Day 25  ░░ ⏳  |  Day 40  ░░ ⏳
 Day 11  ██ ✅  |  Day 26  ░░ ⏳  |  Day 41  ░░ ⏳
 Day 12  ██ ✅  |  Day 27  ░░ ⏳  |  Day 42  ░░ ⏳
 Day 13  ██ ✅  |  Day 28  ░░ ⏳  |  Day 43  ░░ ⏳
-Day 14  ░░ ⏳  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
+Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ░░ ⏳  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
@@ -138,7 +138,7 @@ CodeSprint_3.0/
 | Hash Maps & Sets | Day 1, 5, 10 |
 | String Processing | Day 3, 4, 7, 12, 13 |
 | Pattern Printing | Day 3, 4, 6 |
-| Sorting Algorithms | Day 8, 11, 13 |
+| Sorting Algorithms | Day 8, 11, 13 , 14 |
 | Matrix / 2D Arrays | Day 6 |
 | Greedy / Priority | Day 10 |
 | Dynamic Programming | Day 12 |
