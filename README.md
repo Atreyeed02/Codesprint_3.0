@@ -57,7 +57,7 @@ Day 11  ██ ✅  |  Day 26  ░░ ⏳  |  Day 41  ░░ ⏳
 Day 12  ██ ✅  |  Day 27  ░░ ⏳  |  Day 42  ░░ ⏳
 Day 13  ██ ✅  |  Day 28  ░░ ⏳  |  Day 43  ░░ ⏳
 Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
-Day 15  ░░ ⏳  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
+Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
 **13 / 45 days completed · 24 problems solved**
@@ -124,6 +124,11 @@ CodeSprint_3.0/
 ├── Day-14/
 │   ├── selection_sort_swap_count.java     # Selection Sort + swap counting
 │   └── maximum_visibility_score.java      # Two Pointer approach
+│
+├── Day-15/
+│   ├── username_leaderboard_ranking.java    # Custom Comparator sorting
+│   └── minimum_boat_load.java               # Greedy + Two Pointer approach
+│
 │
 └── README.md
 ```
