@@ -45,7 +45,7 @@ Hi, I'm **Atreyee Debnath** — a Computer Science student passionate about buil
 ```
 Day  1  ██ ✅  |  Day 16  ██ ✅  |  Day 31  ░░ ⏳
 Day  2  ██ ✅  |  Day 17  ██ ✅  |  Day 32  ░░ ⏳
-Day  3  ██ ✅  |  Day 18  ░░ ⏳  |  Day 33  ░░ ⏳
+Day  3  ██ ✅  |  Day 18  ██ ✅  |  Day 33  ░░ ⏳
 Day  4  ██ ✅  |  Day 19  ░░ ⏳  |  Day 34  ░░ ⏳
 Day  5  ██ ✅  |  Day 20  ░░ ⏳  |  Day 35  ░░ ⏳
 Day  6  ██ ✅  |  Day 21  ░░ ⏳  |  Day 36  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**17 / 45 days completed · 34 problems solved**
+**18 / 45 days completed · 36 problems solved**
 
 ---
 
@@ -136,6 +136,11 @@ CodeSprint_3.0/
 ├── Day-17/
 │   ├── reverse_linked_list.java        # Reverse a linked list
 │   └── remove_kth_node_from_end.java  # Two Pointer linked list problem
+│
+├── Day-18/
+│
+├── detect_loop_in_linked_list.java          # Floyd's Cycle Detection (Tortoise & Hare)
+└── intersection_point_of_two_linked_lists.java  # Find intersection using Two Pointers
 └── README.md
 ```
 
