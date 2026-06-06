@@ -47,7 +47,7 @@ Day  1  ██ ✅  |  Day 16  ██ ✅  |  Day 31  ░░ ⏳
 Day  2  ██ ✅  |  Day 17  ██ ✅  |  Day 32  ░░ ⏳
 Day  3  ██ ✅  |  Day 18  ██ ✅  |  Day 33  ░░ ⏳
 Day  4  ██ ✅  |  Day 19  ██ ✅  |  Day 34  ░░ ⏳
-Day  5  ██ ✅  |  Day 20  ░░ ⏳  |  Day 35  ░░ ⏳
+Day  5  ██ ✅  |  Day 20  ██ ✅  |  Day 35  ░░ ⏳
 Day  6  ██ ✅  |  Day 21  ░░ ⏳  |  Day 36  ░░ ⏳
 Day  7  ██ ✅  |  Day 22  ░░ ⏳  |  Day 37  ░░ ⏳
 Day  8  ██ ✅  |  Day 23  ░░ ⏳  |  Day 38  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**19 / 45 days completed · 38 problems solved**
+**20 / 45 days completed · 40 problems solved**
 
 ---
 
@@ -138,13 +138,18 @@ CodeSprint_3.0/
 │   └── remove_kth_node_from_end.java  # Two Pointer linked list problem
 │
 ├── Day-18/
-│
-├── detect_loop_in_linked_list.java          # Floyd's Cycle Detection (Tortoise & Hare)
-└── intersection_point_of_two_linked_lists.java  # Find intersection using Two Pointers
+│   ├── detect_loop_in_linked_list.java          # Floyd's Cycle Detection (Tortoise & Hare)
+│   └── intersection_point_of_two_linked_lists.java  # Find intersection using Two Pointers
 │ 
 ├── Day-19/
 │   ├── josephus_problem.java            # Last remaining participant in circular linked list
 │   └── rotate_doubly_linked_list.java  # Rotate doubly linked list by K positions
+│ 
+├── Day-20/
+├── LRUCache.java                  # LRU cache implementation with O(1) GET and PUT operations
+└── XORLinkedListTraversal.java    # Print all nodes of XOR linked list from left to right
+│
+│ 
 └── README.md
 ```
 
