@@ -48,7 +48,7 @@ Day  2  ██ ✅  |  Day 17  ██ ✅  |  Day 32  ░░ ⏳
 Day  3  ██ ✅  |  Day 18  ██ ✅  |  Day 33  ░░ ⏳
 Day  4  ██ ✅  |  Day 19  ██ ✅  |  Day 34  ░░ ⏳
 Day  5  ██ ✅  |  Day 20  ██ ✅  |  Day 35  ░░ ⏳
-Day  6  ██ ✅  |  Day 21  ░░ ⏳  |  Day 36  ░░ ⏳
+Day  6  ██ ✅  |  Day 21  ██ ✅  |  Day 36  ░░ ⏳
 Day  7  ██ ✅  |  Day 22  ░░ ⏳  |  Day 37  ░░ ⏳
 Day  8  ██ ✅  |  Day 23  ░░ ⏳  |  Day 38  ░░ ⏳
 Day  9  ██ ✅  |  Day 24  ░░ ⏳  |  Day 39  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**20 / 45 days completed · 40 problems solved**
+**21 / 45 days completed · 42 problems solved**
 
 ---
 
@@ -146,27 +146,35 @@ CodeSprint_3.0/
 │   └── rotate_doubly_linked_list.java  # Rotate doubly linked list by K positions
 │ 
 ├── Day-20/
-├── LRUCache.java                  # LRU cache implementation with O(1) GET and PUT operations
-└── XORLinkedListTraversal.java    # Print all nodes of XOR linked list from left to right
+│   ├── LRUCache.java                  # LRU cache implementation with O(1) GET and PUT operations
+│   └── XORLinkedListTraversal.java    # Print all nodes of XOR linked list from left to right
+│
+├── Day-21/
+│   ├── FlattenSortedLinkedLists.java    # Merge K sorted linked lists using Min Heap
+│   └── NthFibonacciRecursion.java       # Find N-th Fibonacci number using recursion
 │
 │ 
 └── README.md
 ```
 
----
-
 ## 🧠 Topics Covered So Far
 
-| Topic | Days |
-|-------|------|
-| Array Manipulation | Day 1, 9 |
-| Hash Maps & Sets | Day 1, 5, 10 |
-| String Processing | Day 3, 4, 7, 12, 13 |
-| Pattern Printing | Day 3, 4, 6 |
-| Sorting Algorithms | Day 8, 11, 13 , 14 |
-| Matrix / 2D Arrays | Day 6 |
-| Greedy / Priority | Day 10 |
-| Dynamic Programming | Day 12 |
+| Topic                     | Days                    |
+|---------------------------|-------------------------|
+| Array Manipulation        | Day 1, 9               |
+| Hash Maps & Sets          | Day 1, 5, 10, 16       |
+| String Processing         | Day 3, 4, 7, 12, 13    |
+| Pattern Printing          | Day 3, 4, 6            |
+| Sorting Algorithms        | Day 8, 11, 13, 14, 15  |
+| Matrix / 2D Arrays        | Day 6                  |
+| Greedy / Priority Queue   | Day 10, 15, 21         |
+| Dynamic Programming       | Day 12                 |
+| Sliding Window            | Day 16                 |
+| Linked List               | Day 17, 18, 19, 20, 21 |
+| Recursion                 | Day 19, 21             |
+| Two Pointer Technique     | Day 14, 15, 17, 18     |
+| Caching / System Design   | Day 20                 |
+| Advanced Data Structures  | Day 20                 |
 
 ---
 
