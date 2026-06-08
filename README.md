@@ -49,7 +49,7 @@ Day  3  ██ ✅  |  Day 18  ██ ✅  |  Day 33  ░░ ⏳
 Day  4  ██ ✅  |  Day 19  ██ ✅  |  Day 34  ░░ ⏳
 Day  5  ██ ✅  |  Day 20  ██ ✅  |  Day 35  ░░ ⏳
 Day  6  ██ ✅  |  Day 21  ██ ✅  |  Day 36  ░░ ⏳
-Day  7  ██ ✅  |  Day 22  ░░ ⏳  |  Day 37  ░░ ⏳
+Day  7  ██ ✅  |  Day 22  ██ ✅  |  Day 37  ░░ ⏳
 Day  8  ██ ✅  |  Day 23  ░░ ⏳  |  Day 38  ░░ ⏳
 Day  9  ██ ✅  |  Day 24  ░░ ⏳  |  Day 39  ░░ ⏳
 Day 10  ██ ✅  |  Day 25  ░░ ⏳  |  Day 40  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**21 / 45 days completed · 42 problems solved**
+**22 / 45 days completed · 44 problems solved**
 
 ---
 
@@ -153,6 +153,9 @@ CodeSprint_3.0/
 │   ├── FlattenSortedLinkedLists.java    # Merge K sorted linked lists using Min Heap
 │   └── NthFibonacciRecursion.java       # Find N-th Fibonacci number using recursion
 │
+├── Day-22/
+│   ├── rat_in_a_maze.java               # Recursion + Backtracking to find all valid paths
+│   └── merge_sort_divide_and_conquer.java # Merge Sort using Divide & Conquer approach
 │ 
 └── README.md
 ```
