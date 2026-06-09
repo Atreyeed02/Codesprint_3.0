@@ -50,7 +50,7 @@ Day  4  ██ ✅  |  Day 19  ██ ✅  |  Day 34  ░░ ⏳
 Day  5  ██ ✅  |  Day 20  ██ ✅  |  Day 35  ░░ ⏳
 Day  6  ██ ✅  |  Day 21  ██ ✅  |  Day 36  ░░ ⏳
 Day  7  ██ ✅  |  Day 22  ██ ✅  |  Day 37  ░░ ⏳
-Day  8  ██ ✅  |  Day 23  ░░ ⏳  |  Day 38  ░░ ⏳
+Day  8  ██ ✅  |  Day 23  ██ ✅  |  Day 38  ░░ ⏳
 Day  9  ██ ✅  |  Day 24  ░░ ⏳  |  Day 39  ░░ ⏳
 Day 10  ██ ✅  |  Day 25  ░░ ⏳  |  Day 40  ░░ ⏳
 Day 11  ██ ✅  |  Day 26  ░░ ⏳  |  Day 41  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**22 / 45 days completed · 44 problems solved**
+**23 / 45 days completed · 46 problems solved**
 
 ---
 
@@ -156,6 +156,9 @@ CodeSprint_3.0/
 ├── Day-22/
 │   ├── rat_in_a_maze.java               # Recursion + Backtracking to find all valid paths
 │   └── merge_sort_divide_and_conquer.java # Merge Sort using Divide & Conquer approach
+├── Day-23/
+│   ├── temperature_range_difference.java  # Range Queries (Max - Min) using Brute Force / Segment Tree concept
+│   └── range_score_frequency_square.java  # HashMap Frequency Counting + Range Score Calculation
 │ 
 └── README.md
 ```
