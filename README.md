@@ -52,7 +52,7 @@ Day  6  ██ ✅  |  Day 21  ██ ✅  |  Day 36  ░░ ⏳
 Day  7  ██ ✅  |  Day 22  ██ ✅  |  Day 37  ░░ ⏳
 Day  8  ██ ✅  |  Day 23  ██ ✅  |  Day 38  ░░ ⏳
 Day  9  ██ ✅  |  Day 24  ██ ✅  |  Day 39  ░░ ⏳
-Day 10  ██ ✅  |  Day 25  ░░ ⏳  |  Day 40  ░░ ⏳
+Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ░░ ⏳
 Day 11  ██ ✅  |  Day 26  ░░ ⏳  |  Day 41  ░░ ⏳
 Day 12  ██ ✅  |  Day 27  ░░ ⏳  |  Day 42  ░░ ⏳
 Day 13  ██ ✅  |  Day 28  ░░ ⏳  |  Day 43  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**24 / 45 days completed · 48 problems solved**
+**25 / 45 days completed · 50 problems solved**
 
 ---
 
@@ -162,6 +162,9 @@ CodeSprint_3.0/
 ├── Day-24/
 │   ├── maximum_consecutive_tokens.java   # Sliding Window (Longest Subarray with Sum ≤ W)
 │   └── middle_node_linked_list.java      # Fast & Slow Pointer (Second Middle Node)
+├── Day-25/
+│   ├── maximum_banner_display_area.java   # Two Pointers (Container With Most Water)
+│   └── minimum_window_substring.java      # Sliding Window + HashMap (Minimum Window Substring)
 │ 
 └── README.md
 ```
