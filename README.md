@@ -54,13 +54,13 @@ Day  8  ██ ✅  |  Day 23  ██ ✅  |  Day 38  ░░ ⏳
 Day  9  ██ ✅  |  Day 24  ██ ✅  |  Day 39  ░░ ⏳
 Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ░░ ⏳
 Day 11  ██ ✅  |  Day 26  ██ ✅  |  Day 41  ░░ ⏳
-Day 12  ██ ✅  |  Day 27  ░░ ⏳  |  Day 42  ░░ ⏳
+Day 12  ██ ✅  |  Day 27  ██ ✅  |  Day 42  ░░ ⏳
 Day 13  ██ ✅  |  Day 28  ░░ ⏳  |  Day 43  ░░ ⏳
 Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**26 / 45 days completed · 52 problems solved**
+**27 / 45 days completed · 54 problems solved**
 
 ---
 
@@ -166,8 +166,11 @@ CodeSprint_3.0/
 │   ├── maximum_banner_display_area.java   # Two Pointers (Container With Most Water)
 │   └── minimum_window_substring.java      # Sliding Window + HashMap (Minimum Window Substring)
 ├── Day-26/
-│   ├── clone_linked_list_random_pointer.java
-│   └── tower_of_hanoi.java
+│   ├── clone_linked_list_random_pointer.java     # HashMap (Clone Linked List with Random Pointer)
+│   └── tower_of_hanoi.java                       # Recursion (Tower of Hanoi)
+├── Day-27/
+│   ├── peak_transmission_bitonic_array.java      # Binary Search (Bitonic Array Peak)
+│   └── treasure_vault_search_matrix.java         # Binary Search (Search in Sorted Matrix)
 │ 
 └── README.md
 ```
