@@ -177,22 +177,31 @@ CodeSprint_3.0/
 
 ## 🧠 Topics Covered So Far
 
-| Topic                     | Days                    |
-|---------------------------|-------------------------|
-| Array Manipulation        | Day 1, 9               |
-| Hash Maps & Sets          | Day 1, 5, 10, 16       |
-| String Processing         | Day 3, 4, 7, 12, 13    |
-| Pattern Printing          | Day 3, 4, 6            |
-| Sorting Algorithms        | Day 8, 11, 13, 14, 15  |
-| Matrix / 2D Arrays        | Day 6                  |
-| Greedy / Priority Queue   | Day 10, 15, 21         |
-| Dynamic Programming       | Day 12                 |
-| Sliding Window            | Day 16                 |
-| Linked List               | Day 17, 18, 19, 20, 21 |
-| Recursion                 | Day 19, 21             |
-| Two Pointer Technique     | Day 14, 15, 17, 18     |
-| Caching / System Design   | Day 20                 |
-| Advanced Data Structures  | Day 20                 |
+## 🧠 Topics Covered So Far
+
+| Topic                     | Days                          |
+|---------------------------|-------------------------------|
+| Array Manipulation        | Day 1, 9, 23, 24              |
+| Hash Maps & Sets          | Day 1, 5, 10, 16, 23, 25, 26  |
+| String Processing         | Day 3, 4, 7, 12, 13, 25       |
+| Pattern Printing          | Day 3, 4, 6                   |
+| Sorting Algorithms        | Day 8, 11, 13, 14, 15, 22     |
+| Matrix / 2D Arrays        | Day 6, 27                     |
+| Greedy Algorithms         | Day 10, 15                    |
+| Priority Queue / Heap     | Day 21                        |
+| Dynamic Programming       | Day 12                        |
+| Sliding Window            | Day 9, 16, 24, 25             |
+| Linked List               | Day 17, 18, 19, 20, 21, 24, 26|
+| Recursion                 | Day 19, 21, 22, 26            |
+| Backtracking              | Day 22                        |
+| Divide & Conquer          | Day 22                        |
+| Binary Search             | Day 27                        |
+| Two Pointer Technique     | Day 9, 14, 15, 17, 18, 25     |
+| Queue                     | Day 11                        |
+| Caching / System Design   | Day 20                        |
+| Advanced Data Structures  | Day 20, 21, 23                |
+| Segment Tree Concepts     | Day 23                        |
+| Range Queries             | Day 23                        |
 
 ---
 
