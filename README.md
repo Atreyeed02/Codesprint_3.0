@@ -180,8 +180,6 @@ CodeSprint_3.0/
 
 ## 🧠 Topics Covered So Far
 
-## 🧠 Topics Covered So Far
-
 | Topic                     | Days                          |
 |---------------------------|-------------------------------|
 | Array Manipulation        | Day 1, 9, 23, 24              |
