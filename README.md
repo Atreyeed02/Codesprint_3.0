@@ -5,7 +5,7 @@
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
 ![Progress](https://img.shields.io/badge/Progress-Day%2013%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-24-854F0B?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-56-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
