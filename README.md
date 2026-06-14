@@ -55,12 +55,12 @@ Day  9  ██ ✅  |  Day 24  ██ ✅  |  Day 39  ░░ ⏳
 Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ░░ ⏳
 Day 11  ██ ✅  |  Day 26  ██ ✅  |  Day 41  ░░ ⏳
 Day 12  ██ ✅  |  Day 27  ██ ✅  |  Day 42  ░░ ⏳
-Day 13  ██ ✅  |  Day 28  ░░ ⏳  |  Day 43  ░░ ⏳
+Day 13  ██ ✅  |  Day 28  ██ ✅  |  Day 43  ░░ ⏳
 Day 14  ██ ✅  |  Day 29  ░░ ⏳  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
 ```
 
-**27 / 45 days completed · 54 problems solved**
+**28 / 45 days completed · 56 problems solved**
 
 ---
 
@@ -171,6 +171,9 @@ CodeSprint_3.0/
 ├── Day-27/
 │   ├── peak_transmission_bitonic_array.java      # Binary Search (Bitonic Array Peak)
 │   └── treasure_vault_search_matrix.java         # Binary Search (Search in Sorted Matrix)
+├── Day-28/
+│   ├── placement_interview_queue.java      # Queue Operations (REGISTER / WITHDRAW / NEXT)
+│   └── attendance_log_validation.java      # Stack (Valid Parentheses with () [] {} <>)
 │ 
 └── README.md
 ```
