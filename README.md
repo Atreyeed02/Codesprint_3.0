@@ -4,8 +4,8 @@
 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-Day%2029%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-58-854F0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Day%2030%20of%2045-185FA5?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-60-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
@@ -57,10 +57,10 @@ Day 11  ██ ✅  |  Day 26  ██ ✅  |  Day 41  ░░ ⏳
 Day 12  ██ ✅  |  Day 27  ██ ✅  |  Day 42  ░░ ⏳
 Day 13  ██ ✅  |  Day 28  ██ ✅  |  Day 43  ░░ ⏳
 Day 14  ██ ✅  |  Day 29  ██ ✅  |  Day 44  ░░ ⏳
-Day 15  ██ ✅  |  Day 30  ░░ ⏳  |  Day 45  ░░ ⏳
+Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ░░ ⏳
 ```
 
-**29 / 45 days completed · 58 problems solved**
+**30 / 45 days completed · 60 problems solved**
 
 ---
 
@@ -174,11 +174,12 @@ CodeSprint_3.0/
 ├── Day-28/
 │   ├── placement_interview_queue.java      # Queue Operations (REGISTER / WITHDRAW / NEXT)
 │   └── attendance_log_validation.java      # Stack (Valid Parentheses with () [] {} <>)
-│
 ├── Day-29/
 │   ├── expression_evaluator.java          # Stack-based calculator with operator precedence (+, -, *, /)
 │   └── remove_adjacent_duplicates.java    # Stack-based adjacent duplicate character removal
-│
+├── Day-30/
+│   ├── prefix_expression_evaluation.java    # Evaluate prefix expressions using Stack
+│   └── infix_to_postfix_conversion.java     # Convert infix expressions to postfix using Stack
 │ 
 └── README.md
 ```
