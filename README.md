@@ -4,8 +4,8 @@
 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-Day%2031%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-854F0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Day%2032%20of%2045-185FA5?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-64-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
@@ -44,7 +44,7 @@ Hi, I'm **Atreyee Debnath** — a Computer Science student passionate about buil
 
 ```
 Day  1  ██ ✅  |  Day 16  ██ ✅  |  Day 31  ██ ✅
-Day  2  ██ ✅  |  Day 17  ██ ✅  |  Day 32  ░░ ⏳
+Day  2  ██ ✅  |  Day 17  ██ ✅  |  Day 32  ██ ✅
 Day  3  ██ ✅  |  Day 18  ██ ✅  |  Day 33  ░░ ⏳
 Day  4  ██ ✅  |  Day 19  ██ ✅  |  Day 34  ░░ ⏳
 Day  5  ██ ✅  |  Day 20  ██ ✅  |  Day 35  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ██ ✅  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ░░ ⏳
 ```
 
-**31 / 45 days completed · 62 problems solved**
+**32 / 45 days completed · 64 problems solved**
 
 ---
 
@@ -183,6 +183,9 @@ CodeSprint_3.0/
 ├── Day-31/
 │   ├── minimum_stress_stack.java      # Min Stack with O(1) minimum retrieval
 │   └── lift_request_queue.java        # Queue implementation using two stacks
+├── Day-32/
+│   ├── registration_token_system.java      # Queue implementation using two stacks
+│   └── parcel_counter_circular_queue.java  # Circular Queue using array and modulo indexing
 │ 
 └── README.md
 ```
