@@ -4,8 +4,8 @@
 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-Day%2036%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-72-854F0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Day%2037%20of%2045-185FA5?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-74-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
@@ -49,7 +49,7 @@ Day  3  ██ ✅  |  Day 18  ██ ✅  |  Day 33  ██ ✅
 Day  4  ██ ✅  |  Day 19  ██ ✅  |  Day 34  ██ ✅
 Day  5  ██ ✅  |  Day 20  ██ ✅  |  Day 35  ██ ✅
 Day  6  ██ ✅  |  Day 21  ██ ✅  |  Day 36  ██ ✅
-Day  7  ██ ✅  |  Day 22  ██ ✅  |  Day 37  ░░ ⏳
+Day  7  ██ ✅  |  Day 22  ██ ✅  |  Day 37  ██ ✅
 Day  8  ██ ✅  |  Day 23  ██ ✅  |  Day 38  ░░ ⏳
 Day  9  ██ ✅  |  Day 24  ██ ✅  |  Day 39  ░░ ⏳
 Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ██ ✅  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ░░ ⏳
 ```
 
-**36 / 45 days completed · 72 problems solved**
+**37 / 45 days completed · 74 problems solved**
 
 ---
 
@@ -198,6 +198,9 @@ CodeSprint_3.0/
 ├── Day-36/
 │   ├── unique_number_position.java      # Find unique element using XOR and its position in sorted array
 │   └── scholarship_rank_query.java      # Rank lookup after sorting marks in descending order
+├── Day-37/
+│   ├── top_k_highest_priority_requests.java   # Find K largest elements using Min Heap (Priority Queue)
+│   └── count_subarrays_sum_k.java            # Count subarrays with sum K using Prefix Sum + HashMap
 │ 
 └── README.md
 ```
