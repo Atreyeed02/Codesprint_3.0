@@ -4,8 +4,8 @@
 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-Day%2039%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-78-854F0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Day%2040%20of%2045-185FA5?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-80-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
@@ -52,7 +52,7 @@ Day  6  ██ ✅  |  Day 21  ██ ✅  |  Day 36  ██ ✅
 Day  7  ██ ✅  |  Day 22  ██ ✅  |  Day 37  ██ ✅
 Day  8  ██ ✅  |  Day 23  ██ ✅  |  Day 38  ██ ✅
 Day  9  ██ ✅  |  Day 24  ██ ✅  |  Day 39  ██ ✅
-Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ░░ ⏳
+Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ██ ✅
 Day 11  ██ ✅  |  Day 26  ██ ✅  |  Day 41  ░░ ⏳
 Day 12  ██ ✅  |  Day 27  ██ ✅  |  Day 42  ░░ ⏳
 Day 13  ██ ✅  |  Day 28  ██ ✅  |  Day 43  ░░ ⏳
@@ -60,7 +60,7 @@ Day 14  ██ ✅  |  Day 29  ██ ✅  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ░░ ⏳
 ```
 
-**39 / 45 days completed · 78 problems solved**
+**40 / 45 days completed · 80 problems solved**
 
 ---
 
@@ -207,6 +207,9 @@ CodeSprint_3.0/
 ├── Day-39/
 │   ├── n_queens_backtracking.java     # Place N queens without attacking each other
 │   └── word_search_backtracking.java  # Find a word in a 2D grid using DFS + Backtracking
+├── Day-40/
+│   ├── even_level_treasure_tree.java      # Find the total treasure present at even levels of a rooted tree using BFS
+│   └── kth_largest_bst.java         # Find the K-th largest element in a Binary Search Tree using Reverse Inorder Traversal
 │ 
 └── README.md
 ```
