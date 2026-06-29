@@ -4,8 +4,8 @@
 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-Day%2042%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-84-854F0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Day%2043%20of%2045-185FA5?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-86-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
@@ -55,12 +55,12 @@ Day  9  ██ ✅  |  Day 24  ██ ✅  |  Day 39  ██ ✅
 Day 10  ██ ✅  |  Day 25  ██ ✅  |  Day 40  ██ ✅
 Day 11  ██ ✅  |  Day 26  ██ ✅  |  Day 41  ██ ✅
 Day 12  ██ ✅  |  Day 27  ██ ✅  |  Day 42  ██ ✅
-Day 13  ██ ✅  |  Day 28  ██ ✅  |  Day 43  ░░ ⏳
+Day 13  ██ ✅  |  Day 28  ██ ✅  |  Day 43  ██ ✅
 Day 14  ██ ✅  |  Day 29  ██ ✅  |  Day 44  ░░ ⏳
 Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ░░ ⏳
 ```
 
-**42 / 45 days completed · 84 problems solved**
+**43 / 45 days completed · 86 problems solved**
 
 ---
 
@@ -216,35 +216,48 @@ CodeSprint_3.0/
 ├── Day-42/
 │   ├── recover_bst_morris_traversal.java     # Recover a Binary Search Tree using Morris Traversal
 │   └── subtree_sum_queries.java              # Euler Tour + Fenwick Tree for subtree sum queries
+├── Day-43/
+│   ├── earliest_arrival_with_expiring_roads.java    # Modified Dijkstra's Algorithm with Edge Expiry
+│   └── infinite_profit_detection.java               # Modified Bellman-Ford for Maximum Profit & Positive Cycle Detection
 │ 
 └── README.md
 ```
 
 ## 🧠 Topics Covered So Far
 
-| Topic                     | Days                          |
-|---------------------------|-------------------------------|
-| Array Manipulation        | Day 1, 9, 23, 24              |
-| Hash Maps & Sets          | Day 1, 5, 10, 16, 23, 25, 26  |
-| String Processing         | Day 3, 4, 7, 12, 13, 25       |
-| Pattern Printing          | Day 3, 4, 6                   |
-| Sorting Algorithms        | Day 8, 11, 13, 14, 15, 22     |
-| Matrix / 2D Arrays        | Day 6, 27                     |
-| Greedy Algorithms         | Day 10, 15                    |
-| Priority Queue / Heap     | Day 21                        |
-| Dynamic Programming       | Day 12                        |
-| Sliding Window            | Day 9, 16, 24, 25             |
-| Linked List               | Day 17, 18, 19, 20, 21, 24, 26|
-| Recursion                 | Day 19, 21, 22, 26            |
-| Backtracking              | Day 22                        |
-| Divide & Conquer          | Day 22                        |
-| Binary Search             | Day 27                        |
-| Two Pointer Technique     | Day 9, 14, 15, 17, 18, 25     |
-| Queue                     | Day 11                        |
-| Caching / System Design   | Day 20                        |
-| Advanced Data Structures  | Day 20, 21, 23                |
-| Segment Tree Concepts     | Day 23                        |
-| Range Queries             | Day 23                        |
+| Topic                      | Days                             |
+| -------------------------- | -------------------------------- |
+| Array Manipulation         | Day 1, 9, 23, 24                 |
+| Hash Maps & Sets           | Day 1, 5, 10, 16, 23, 25, 26, 37 |
+| String Processing          | Day 3, 4, 7, 12, 13, 25          |
+| Pattern Printing           | Day 3, 4, 6                      |
+| Sorting Algorithms         | Day 8, 11, 13, 14, 15, 22, 35    |
+| Matrix / 2D Arrays         | Day 6, 27, 39, 41                |
+| Greedy Algorithms          | Day 10, 15                       |
+| Priority Queue / Heap      | Day 21, 33, 37, **43**           |
+| Dynamic Programming        | Day 12, 34                       |
+| Sliding Window             | Day 9, 16, 24, 25, 33            |
+| Linked List                | Day 17, 18, 19, 20, 21, 24, 26   |
+| Recursion                  | Day 19, 21, 22, 26               |
+| Backtracking               | Day 22, 38, 39                   |
+| Divide & Conquer           | Day 22                           |
+| Binary Search              | Day 27, 36                       |
+| Queue                      | Day 11, 28, 31, 32               |
+| Stack                      | Day 28, 29, 30, 31               |
+| Caching / System Design    | Day 20                           |
+| Advanced Data Structures   | Day 20, 21, 23, 42               |
+| Segment Tree Concepts      | Day 23                           |
+| Fenwick Tree (BIT)         | Day 42                           |
+| Range Queries              | Day 23, 42                       |
+| Trees (Binary Tree / BST)  | Day 40, 41, 42                   |
+| Tree Traversals            | Day 40, 41, 42                   |
+| Graph Algorithms           | **Day 34, 40, 43**               |
+| Breadth First Search (BFS) | Day 34, 40, **43**               |
+| Shortest Path Algorithms   | **Day 43**                       |
+| Dijkstra's Algorithm       | **Day 43**                       |
+| Bellman-Ford Algorithm     | **Day 43**                       |
+| Graph Cycle Detection      | **Day 43**                       |
+
 
 ---
 
