@@ -257,12 +257,15 @@ CodeSprint_3.0/
 | Range Queries              | Day 23, 42                       |
 | Trees (Binary Tree / BST)  | Day 40, 41, 42                   |
 | Tree Traversals            | Day 40, 41, 42                   |
-| Graph Algorithms           | **Day 34, 40, 43**               |
-| Breadth First Search (BFS) | Day 34, 40, **43**               |
-| Shortest Path Algorithms   | **Day 43**                       |
-| Dijkstra's Algorithm       | **Day 43**                       |
-| Bellman-Ford Algorithm     | **Day 43**                       |
-| Graph Cycle Detection      | **Day 43**                       |
+| Graph Algorithms           | **Day 34, 40, 43, 45**              |
+| Breadth First Search (BFS) | Day 34, 40, 43, **45**              |
+| Shortest Path Algorithms   | **Day 43, 45**                      |
+| Dijkstra's Algorithm       | **Day 43**                          |
+| Bellman-Ford Algorithm     | **Day 43**                          |
+| Floyd-Warshall Algorithm   | **Day 45**                          |
+| All-Pairs Shortest Path    | **Day 45**                          |
+| Graph Coloring             | **Day 45**                          |
+| Bipartite Graph            | **Day 45**                          |
 
 
 ---
