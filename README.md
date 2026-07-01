@@ -4,8 +4,8 @@
 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-Day%2044%20of%2045-185FA5?style=flat-square)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-88-854F0B?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-Day%2045%20of%2045-185FA5?style=flat-square)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-90-854F0B?style=flat-square)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java-3C3489?style=flat-square)
 
 ---
@@ -57,10 +57,10 @@ Day 11  ██ ✅  |  Day 26  ██ ✅  |  Day 41  ██ ✅
 Day 12  ██ ✅  |  Day 27  ██ ✅  |  Day 42  ██ ✅
 Day 13  ██ ✅  |  Day 28  ██ ✅  |  Day 43  ██ ✅
 Day 14  ██ ✅  |  Day 29  ██ ✅  |  Day 44  ██ ✅ 
-Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ░░ ⏳
+Day 15  ██ ✅  |  Day 30  ██ ✅  |  Day 45  ██ ✅
 ```
 
-**44 / 45 days completed · 88 problems solved**
+**45 / 45 days completed · 90 problems solved**
 
 ---
 
@@ -222,6 +222,9 @@ CodeSprint_3.0/
 ├── Day-44
 │   ├── euler_path.java                  # Euler Path in Directed Graph (Ribbon Assembly)
 │   └── hamiltonian_path_dfs.java        # Hamiltonian Path using DFS + Backtracking (Vaccination Route)
+├── Day-45
+│   ├── floyd_warshall.java      # All-Pairs Shortest Path (Research Station Wormholes)
+│   └── bipartite_graph.java     # Bipartite Graph using BFS (Task Pipeline Assignment)
 │ 
 └── README.md
 ```
