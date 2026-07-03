@@ -1,7 +1,7 @@
 # CodeSprint 3.0 🚀
 
 > *45-day coding challenge organized by USC KIIT — a consistency-driven journey across Data Structures, Algorithms, and Competitive Programming.*
-
+> 
 ![Challenge](https://img.shields.io/badge/Challenge-CodeSprint%203.0-1D9E75?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-45%20Days-0F6E56?style=flat-square)
 ![Progress](https://img.shields.io/badge/Progress-Day%2045%20of%2045-185FA5?style=flat-square)
